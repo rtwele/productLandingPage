@@ -1,0 +1,39 @@
+<div class="card" style="width: 30rem;">
+            <img class="card-img-top" src="./img/pexels-karolina-grabowska-4041392.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Lovingly Crafted from Natural Elements</h5>
+              <p class="card-text">Gentillesse's ingredients have been meticulously selected with your wellbeing at the forefront of our minds. It is our mission to create the safest products naturally and sustainably.</p>
+            </div>
+          </div>
+
+
+          <div class="card" style="width: 30rem;">
+            <img class="card-img-top" src="./img/pexels-karolina-grabowska-4210374.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Formulations of Gentleness and Strength</h5>
+              <p class="card-text">Our chemists have crafted nature-derived blends for all of our products. Our blends are gentle yet robust enough to withstand the comings and goings of the modern woman's lifestyle.</p>
+            </div>
+          </div>
+
+
+
+          <div class="card" style="width: 30rem;">
+            <img class="card-img-top" src="./img/pexels-olya-kobruseva-7247403.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">A Classic and Timeless Air</h5>
+              <p class="card-text">Beautiful things withstand the test of time, and you are no exception. We draw from a rich heritage to create products that are evergreen and familiar as old friends.</p>
+            </div>
+          </div>
+
+
+
+          <div class="card" style="width: 30rem;">
+            <img class="card-img-top" src="./img/pexels-altea-alessandroni-3996354.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Accentuate Your Inner Beauty</h5>
+              <p class="card-text">Gentillesse celebrates every woman's inner beauty and personal worth. Our products help you to feel your best from within and without; our whole-person approach to beauty sets us apart from other beauty brands.</p>
+            </div>
+          </div>
+
+
+                         
